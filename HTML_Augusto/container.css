@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background-color: #d5f0f0;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 80px;
+    color: white;
+    padding: 10px;
+    background-color: #a3432d;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+}

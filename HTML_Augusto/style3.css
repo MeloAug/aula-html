@@ -1,0 +1,16 @@
+.container{
+    background-color: aqua;
+    width: 400px;
+    height: auto;
+    font-size: 20px;
+}
+.flutuante{
+    background-color: rgb(149, 231, 231);
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+
+}
