@@ -47,6 +47,14 @@
 }
 
 .card-1 {
-    box-shadow: 0px 0px 10px #b80202;
+    box-shadow: 0px 10px 10px #ac0101;
     
+}
+
+.card-2 {
+    box-shadow: 0px 10px 10px #a89d00 ;
+}
+
+.card-3 {
+    box-shadow: 0px 10px 10px #009220;
 }
